@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sharan505/kfc-clone.git
 cd kfc-clone
 ```
 
@@ -125,19 +125,6 @@ kfc-clone/
 ### Backend (`.env`)
 - `PORT` - Port number for the backend server (default: 5000)
 - `MONGODB_URI` - MongoDB connection string
-- `JWT_SECRET` - Secret key for JWT authentication
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
