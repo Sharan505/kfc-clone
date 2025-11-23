@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@font-face {
+  font-family: 'Organetto Sans';
+  src: url('/fonts/OrganettoSans-UltraCondensedBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bystander';
+  src: url('/fonts/BystanderSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.font-organetto {
+  font-family: 'Organetto Sans', sans-serif;
+}
+.font-bystander {
+  font-family: 'Bystander', sans-serif;
+}
+
+.font-oswald {
+  font-family: "Oswald", sans-serif;
+}

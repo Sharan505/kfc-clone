@@ -1,0 +1,85 @@
+[
+  {
+    "title": "FREE CLASSIC ZINGER",
+    "desc": "Min. Order Value 499",
+    "valid_till": "30/12/2030",
+    "terms": [
+      "Applicable for signed in user only.",
+      "Applicable for minimum cart value of 499",
+      "Applicable for first order only",
+      "Applicable for web and app only.",
+      "Not valid with other coupons or offers.",
+      "KFC reserves its right to withdraw the offer at any time",
+      "For selected stores"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/CHKZINGER.jpg?ver=74.66"
+  },
+  {
+    "title": "2 PC HOT & CRISPY CHICKEN @RS 99",
+    "desc": "Min. Order Value 499",
+    "valid_till": "30/12/2026",
+    "terms": [
+      "Applicable for web and app only.",
+      "Not valid with other offers or coupons.",
+      "Applicable for minimum cart value of 499 or more",
+      "Applicable for signed in user only",
+      "Applicable for second and third order only"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/lg/ADDCHK99.jpg?ver=74.66"
+  },
+  {
+    "title": "UPTO RS 100 OFF",
+    "desc": "Min. Order Value 699",
+    "valid_till": "31/12/2026",
+    "terms": [
+      "Valid on KFC Web & App",
+      "Applicable on 4th order onwards for signed in user",
+      "Applicable for Minimum cart value of Rs 699 or more",
+      "Applicable to signed in user. KFC reserves its right to withdraw the offer at any time",
+      "Offer can't be combined with any other offer"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/lg/BIGSAVE.jpg?ver=74.66"
+  },
+  {
+    "title": "RS 75 OFF",
+    "desc": "Min. Order Value 599",
+    "valid_till": "31/12/2026",
+    "terms": [
+      "Valid on KFC Web & App",
+      "Applicable on 4th order onwards for signed in user",
+      "Applicable for Minimum cart value of Rs 599 or more",
+      "Applicable to signed in user. KFC reserves its right to withdraw the offer at any time",
+      "Offer can't be combined with any other offer"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/PHP75.jpg?ver=74.66"
+  },
+  {
+    "title": "FREE VEG ZINGER",
+    "desc": "Min. Order Value 499",
+    "valid_till": "30/12/2026",
+    "terms": [
+      "Applicable for signed in user only",
+      "Applicable for first order only",
+      "Applicable for minimum cart value of Rs.499",
+      "Not valid with other offers or coupons",
+      "Applicable for Web and App only",
+      "KFC reserves its right to withdraw the offer at any time",
+      "For selected stores"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/VEGZINGER.jpg?ver=74.66"
+  },
+  {
+    "title": "LARGE FRENCH FRIES @ 69",
+    "desc": "Min. Order Value 499",
+    "valid_till": "30/11/2025",
+    "terms": [
+      "Applicable for web and app only",
+      "Not valid with other offers or coupons",
+      "Applicable for minimum cart value of 499 or more",
+      "Valid on select stores",
+      "Valid on Delivery only",
+      "Valid on Monday and Tuesday"
+    ],
+    "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/xl/ADDLRGFRIES.jpg?ver=74.66"
+  }
+]
